@@ -2,3 +2,4 @@ streamlit
 matplotlib
 amplify
 folium
+geopy
