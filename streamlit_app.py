@@ -19,7 +19,7 @@ from geopy.distance import geodesic
 from streamlit_folium import st_folium
 from sklearn.cluster import KMeans
 from scipy.spatial.distance import cdist
-
+ 
 def tsp_dynamic_programming(data):
     route = []
     if len(data) == 1:
