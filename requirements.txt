@@ -4,3 +4,4 @@ amplify
 folium
 geopy
 streamlit_folium
+scikit-learn
