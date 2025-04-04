@@ -3,4 +3,4 @@ matplotlib
 amplify
 folium
 geopy
-
+streamlit_folium
